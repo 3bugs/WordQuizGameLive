@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Word Quiz Game</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title">เกมทายคำศัพท์\nภาษาอังกฤษ</string>
+    <string name="app_title_land">เกมทายคำศัพท์ภาษาอังกฤษ</string>
+    <string name="play_game_label">เล่นเกม</string>
+    <string name="high_score_label">คะแนนสูงสุด</string>
+    <string name="title_activity_game">GameActivity</string>
+
+</resources>
