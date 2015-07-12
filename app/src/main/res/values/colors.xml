@@ -2,4 +2,7 @@
 <resources>
     <color name="title_color">#ffff127d</color>
     <color name="background_color">#fff4ffb0</color>
+
+    <color name="correct_answer">#ff0dff21</color>
+    <color name="wrong_answer">#ffff2707</color>
 </resources>
